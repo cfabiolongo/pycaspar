@@ -1,0 +1,259 @@
+
+
+------ NEW SESSION ------ 12/01/2021 09:59:24
+
+Google STT: Turn off the light in the living room.
+Detection time: 3.802441120147705
+Execution time: 1.6750187873840332
+
+Google STT: Turn off the light in the living room.
+Detection time: 3.243631362915039
+Execution time: 0.06599187850952148
+
+Google STT: Turn off the light in the living room.
+Detection time: 3.05004620552063
+Execution time: 0.08999395370483398
+
+Google STT: Turn off the light in the living room.
+Detection time: 3.1469266414642334
+Execution time: 0.05399131774902344
+
+Google STT: Turn off the light in the living room.
+Detection time: 3.0999510288238525
+Execution time: 0.062238454818725586
+
+------ NEW SESSION ------ 12/01/2021 10:00:37
+Feed: Robert is an inhabitant
+Execution time: 0.012398242950439453
+Feed: Robert is at home
+Execution time: 0.011050224304199219
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 4.8868372440338135
+Execution time: 0.07302427291870117
+
+------ NEW SESSION ------ 12/01/2021 10:01:46
+Feed: Robert is an inhabitant
+Execution time: 0.011028766632080078
+Feed: Robert is at home
+Execution time: 0.009997844696044922
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 3.656158924102783
+Execution time: 0.06402134895324707
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 3.215831995010376
+Execution time: 0.05979633331298828
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 3.1752419471740723
+Execution time: 0.056992530822753906
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 3.3758296966552734
+Execution time: 0.07441020011901855
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 3.056882858276367
+Execution time: 0.05399203300476074
+
+------ NEW SESSION ------ 12/01/2021 10:03:34
+Feed: Cuba is a hostile nation
+Execution time: 0.012027502059936523
+Feed: The Colonel West is American
+Execution time: 0.010030508041381836
+Feed: missiles are weapons
+Execution time: 0.009956598281860352
+Feed: the Colonel West sells missiles to Cuba
+Execution time: 0.01193547248840332
+Feed: When an American sells weapons to a hostile nation, that American is a criminal
+Execution time: 0.026017189025878906
+Query: The Colonel West is a criminal
+Execution time: 0.012028932571411133
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 3.0686891078948975
+Execution time: 0.07299995422363281
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 3.029271125793457
+Execution time: 0.09603452682495117
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 2.942357063293457
+Execution time: 0.08699369430541992
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 3.042799472808838
+Execution time: 0.09599637985229492
+
+Google STT: Turn off the alarm.
+Detection time: 3.0448310375213623
+Execution time: 0.06900382041931152
+
+Google STT: Turn off.
+Detection time: 3.3561758995056152
+
+Google STT: Turn off the garage.
+Detection time: 3.66515851020813
+Execution time: 0.05098986625671387
+
+Google STT: Turn off the alarm in the garage.
+Detection time: 3.811594247817993
+Execution time: 0.06595087051391602
+
+------ NEW SESSION ------ 14/01/2021 00:32:05
+
+Google STT: Turn off the light in the living room.
+Detection time: 3.4139389991760254
+Execution time: 1.9195466041564941
+
+Google STT: listen
+Detection time: 2.323533296585083
+
+Google STT: The General West is American.
+Detection time: 3.907414197921753
+Execution time: 0.14958643913269043
+
+Google STT: The General West is a criminal.
+Detection time: 6.482271432876587
+Execution time: 0.07499861717224121
+
+Google STT: done
+Detection time: 2.3705387115478516
+
+Google STT: reason
+Detection time: 3.018925189971924
+
+Google STT: The General West is American.
+Detection time: 3.794557809829712
+Execution time: 0.13645243644714355
+
+Google STT: The General West is a criminal.
+Detection time: 4.343417167663574
+Execution time: 0.13599252700805664
+
+Google STT: done
+Detection time: 2.306185722351074
+
+Google STT: Turn off the light in the living room.
+Detection time: 4.0534844398498535
+Execution time: 0.18343591690063477
+
+------ NEW SESSION ------ 15/01/2021 10:24:10
+
+------ NEW SESSION ------ 15/01/2021 10:25:14
+
+------ NEW SESSION ------ 15/01/2021 10:25:45
+Feed: Robert is a guy who is fine
+Execution time: 1.6422667503356934
+
+------ NEW SESSION ------ 15/01/2021 10:32:06
+Feed: Robert is a guy who is fine
+Execution time: 1.5153026580810547
+
+------ NEW SESSION ------ 15/01/2021 18:31:44
+
+Google STT: listen
+Detection time: 4.289048194885254
+
+Google STT: Waiting on a Nabi time to ease up to all the owls is safe.
+Detection time: 6.1999616622924805
+Execution time: 1.741464614868164
+
+Google STT: When Edina beat and he's at home the house is safe.
+Detection time: 6.525060653686523
+Execution time: 0.3686957359313965
+
+Google STT: Weather in Abbott, and he's at home. The house is safe.
+Detection time: 10.047277212142944
+Execution time: 0.35393714904785156
+
+Google STT: When an inhabitant is out of the house is safe.
+Detection time: 6.963281869888306
+
+------ NEW SESSION ------ 15/01/2021 18:33:42
+
+Google STT: 19 darbytown to he's at home. The house is safe.
+Detection time: 6.749287128448486
+Execution time: 1.6631343364715576
+
+Google STT: listen
+Detection time: 2.5120787620544434
+
+Google STT: When an inhabitant is at home, the house is safe.
+Detection time: 5.87406063079834
+Execution time: 0.33898210525512695
+
+Google STT: Roberto is an inhabitant.
+Detection time: 12.954684257507324
+Execution time: 0.05019879341125488
+
+Google STT: Robert is at home.
+Detection time: 4.4444661140441895
+Execution time: 0.15801596641540527
+
+Google STT: Robert is at home.
+Detection time: 5.322710990905762
+Execution time: 0.07403111457824707
+
+------ NEW SESSION ------ 15/01/2021 18:37:51
+Feed: The house is safe
+Execution time: 0.01102900505065918
+
+------ NEW SESSION ------ 15/01/2021 18:39:24
+Feed: When an inhabitant is at home, the house is safe
+Execution time: 0.02099895477294922
+Feed: Robert is an inhabitant
+Execution time: 0.009996891021728516
+Feed: Robert is at home
+Execution time: 0.010996818542480469
+
+------ NEW SESSION ------ 15/01/2021 18:40:59
+
+Google STT: listen
+Detection time: 2.8125
+
+Google STT: Weather. Batons is at home. The house is safe.
+Detection time: 5.979336500167847
+Execution time: 0.07503795623779297
+
+Google STT: Whether we not be time to easy at home. The house is safe.
+Detection time: 7.356327295303345
+Execution time: 0.09499192237854004
+
+Google STT: Weather in abbottabad is at our house is safe.
+Detection time: 7.981419324874878
+Execution time: 0.05394387245178223
+
+------ NEW SESSION ------ 15/01/2021 18:42:07
+Feed: When an inhabitant is at home, the house is safe
+Execution time: 0.02200031280517578
+Feed: Robert is an inhabitant
+Execution time: 0.01096796989440918
+Feed: Robert is at home
+Execution time: 0.010715246200561523
+Execution time: 0.029293537139892578
+
+------ NEW SESSION ------ 16/01/2021 08:31:45
+Feed: When an inhabitant is at home, the house is safe
+Execution time: 0.03626251220703125
+Feed: When an inhabitant is at home, the white house of the sun is safe
+Execution time: 0.029971837997436523
+Feed: When an inhabitant is at home, the cozy house of the sun is safe
+Execution time: 0.028029441833496094
+Feed: Robert is an inhabitant
+Execution time: 0.011998891830444336
+Feed: Robert is at home
+Execution time: 0.01096796989440918
+
+------ NEW SESSION ------ 17/01/2021 19:47:43
+Feed: He likes to play the bass
+Execution time: 1.8421342372894287
+
+------ NEW SESSION ------ 17/01/2021 19:48:44
+Feed: He likes to play the bass
+Execution time: 1.8912262916564941
+Feed: He likes to eat a bass
+Execution time: 0.18805599212646484
